@@ -42,5 +42,8 @@ The initial file for the data analysis of the project. Really unorganized and sc
 ## FinalData: 
 Includes the data generated using the scripts mentioned above (.Rda files) which can be imported into R to generate the plots or to do 		further investigations. The files whose names start with Boots were created using BotstrapKernel.R, while the ones starting with coef were created by SegmentedAndPowerLaw.R.
 
+## Report: 
+It contains the necessary files to generate the the report (.tex, .bib, plots and 	a file with the Latex template I used (revcoles.cls)).
+
 
 
